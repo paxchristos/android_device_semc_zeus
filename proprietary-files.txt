@@ -87,6 +87,5 @@ etc/permissions/com.sony.android.playstationcertified.xml
 framework/com.playstation.playstationcertified.jar
 framework/playstationcertified.jar
 framework/xperiaplaycertified.jar
-app/com.sonyericsson.androidapp.storefront.apk
 app/preinstalledservice.apk
 lib/librsasigner.so
